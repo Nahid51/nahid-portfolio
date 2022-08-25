@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "photo": "https://i.ibb.co/28234xt/css.jpg",
+        "name": "CSS Concepts Exploration",
+        "date": "",
+        "about": "There are several concepts and layouts in CSS. From them, I have explained some topics such as Flexbox, Grid and Media Query. These kinds of concepts are mainly used to make a container or page responsive. These concepts are used in different ways in different places on a webpage.",
+        "description": "",
+        "link": "https://drive.google.com/file/d/1Tneq2zBHvtaUmsS0N9yRPa8oU1BeNSKF/view?usp=sharing"
+    },
+    {
+        "id": 2,
+        "photo": "https://i.ibb.co/zmQBpKs/javascript1.jpg",
+        "name": "JavaScript Question Exploration",
+        "date": "",
+        "about": "JavaScript: JavaScript is a high-level scripting computer programming language that allows us to implement complex features which create interactive effects on web browsers. We are using JavaScript for calculating, manipulating and validating the data.",
+        "description": "",
+        "link": "https://drive.google.com/file/d/1NL2-X9oDSbGfTNFLI4FyrEY60jfJzuu-/view?usp=sharing"
+    },
+    {
+        "id": 3,
+        "photo": "https://i.ibb.co/rp4HhqD/react-1.jpg",
+        "name": "React Concepts Exploration",
+        "date": "",
+        "about": "React: React is a JavaScript library for building user interfaces. It has some components to implement a method that takes input data and returns what to display. Now we will learn about the different uses of react.",
+        "description": "",
+        "link": "https://drive.google.com/file/d/1JtxH3_vougigDNvhCi893FUmz_K-RGcS/view?usp=sharing"
+    },
+    {
+        "id": 4,
+        "photo": "https://i.ibb.co/svTpGGF/javascript2.jpg",
+        "name": "Backend Concepts Exploration",
+        "date": "",
+        "about": "Backend: We basically use the backend to keep our website data to the server-side and then we display the data on our website from the server-side. Now we will discuss some important topics about the backend.",
+        "description": "",
+        "link": "https://drive.google.com/file/d/1ORvfw0XRfJMR3gdGJ5ItJKvjwmkP5UuT/view?usp=sharing"
+    }
+]

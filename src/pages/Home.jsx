@@ -1,17 +1,21 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Hero from '../components/Hero';
 import Blogs from '../components/Blogs';
 import Contact from '../components/Contact';
-import Navigation from '../components/Navigation';
 import Projects from '../components/Projects';
 import About from '../components/About';
+import SkillImages from '../components/SkillImages';
 
 const Home = () => {
+    useEffect(() => {
+        window.scrollTo(0, 0)
+    }, []);
+
     return (
-        <div className="md:container md:mx-auto lg:px-20 mx-5">
-            <Navigation />
+        <div>
             <Hero />
             <About />
+            <SkillImages />
             <Projects />
             <Blogs />
             <Contact />

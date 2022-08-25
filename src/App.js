@@ -1,15 +1,19 @@
 import { Routes, Route } from "react-router-dom";
-import Hero from "./components/Hero";
+import Navigation from "./components/Navigation";
+import Footer from "./components/Footer";
 import Home from "./pages/Home";
+import SingleProject from "./pages/SingleProject";
 
 function App() {
   return (
     <div>
+      <Navigation />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/home" element={<Home />} />
-        <Route path="/hero" element={<Hero />} />
+        <Route path="/singleProject/:id" element={<SingleProject />} />
       </Routes>
+      <Footer />
     </div>
   );
 }

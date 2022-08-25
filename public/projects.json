@@ -1,0 +1,204 @@
+[
+    {
+        "id": 8,
+        "photo": "https://i.ibb.co/cwLXm2P/true.png",
+        "name": "Sigma Care - Hospital Management Website",
+        "date": "February 2022 - March 2022",
+        "description": {
+            "line1": ">> Developed an interactive dashboard panel for Doctors, Patients, Nurses, Admin, and Pharmacists. They can perform different operations according to their responsibilities.",
+            "line2": ">> Allowed users to posts, likes, comments, view all services, doctors' details, and get doctor appointments.",
+            "line3": ">> We show some services, projects and reviews in our UI.",
+            "line4": ">> Implemented a blood bank section from which anyone can get blood related information.",
+            "line5": ">> For online payment we used SSL commerz, UUID method.",
+            "line6": ">> React.js, React Bootstrap, React-Router-Dom, Redux-Toolkit.",
+            "line7": ">> For backend used Node.js, Express.js, MongoDB."
+        },
+        "methods": {
+            "method1": "#React-Bootstrap",
+            "method2": "#JavaScript",
+            "method3": "#React JS",
+            "method4": "#Redux-Toolkit",
+            "method5": "#React Router",
+            "method6": "#Firebase",
+            "method7": "#Node JS",
+            "method8": "#MongoDB",
+            "method9": "#SSL Commerz",
+            "method10": "#Socket.io",
+            "method11": "#Invoice",
+            "method12": "#Recharts"
+        },
+        "liveSite": "https://sigmacare-hospital.netlify.app/",
+        "serverSite": "https://github.com/Nahid51/sigma-hospital-server",
+        "clientSide": "https://github.com/Nahid51/sigma-hospital-client"
+    },
+    {
+        "id": 7,
+        "photo": "https://i.ibb.co/jV7z8dX/p77.png",
+        "name": "Creative Agency - Website Design and Development",
+        "date": "January 2022",
+        "description": {
+            "line1": ">> First of all, it is fully responsive website for mobile and desktop.",
+            "line2": ">> We added some animation to make website beautiful.",
+            "line3": ">> We show some services, projects and reviews in our UI.",
+            "line4": ">> We create a different control panel for users and admin.",
+            "line5": ">> For online payment we used SSL commerz, UUID method.",
+            "line6": ">> React.js, React Bootstrap, React-Router-Dom, Redux.",
+            "line7": ">> For backend used Node.js, Express.js, MongoDB."
+        },
+        "methods": {
+            "method1": "#Bootstrap",
+            "method2": "#JavaScript",
+            "method3": "#React JS",
+            "method4": "#Redux",
+            "method5": "#React Router",
+            "method6": "#Firebase",
+            "method7": "#Node JS",
+            "method8": "#MongoDB",
+            "method9": "#SSL Commerz"
+        },
+        "liveSite": "https://creative-agency-20caa.web.app/",
+        "serverSite": "https://github.com/Nahid51/creative-agency-server",
+        "clientSide": "https://github.com/Nahid51/creative-agency-client"
+    },
+    {
+        "id": 6,
+        "photo": "https://i.ibb.co/N3fN2Qx/p66.png",
+        "name": "Luxury Living Desigining Purpose Website",
+        "date": "December 2021",
+        "description": {
+            "line1": ">> Mainly I did this project with react.js.",
+            "line2": ">> I used react-bootstrap for the design part.",
+            "line3": ">> For routing purposes I used react-router-dom.",
+            "line4": ">> All the data are stored in the MongoDB database.",
+            "line5": ">> Firebase authentication is used for login purpose.",
+            "line6": ">> There are some different functionality for general user and admin.",
+            "line7": ">> I used redux for loading data.",
+            "line8": ">> Full projects are fully responsive for mobile or desktop screen.",
+            "line9": ">> Backend side are deployed on Heroku.",
+            "line10": ">> Frontend side are deployed on firebase."
+        },
+        "methods": {
+            "method1": "#Bootstrap",
+            "method2": "#JavaScript",
+            "method3": "#React JS",
+            "method4": "#Redux",
+            "method5": "#React Router",
+            "method6": "#Firebase",
+            "method7": "#Node JS",
+            "method8": "#MongoDB",
+            "method9": "#SSL Commerz"
+        },
+        "liveSite": "https://luxury-living-4451f.web.app/",
+        "serverSite": "https://github.com/Nahid51/luxury-living-server2",
+        "clientSide": "https://github.com/Nahid51/luxury-living-client"
+    },
+    {
+        "id": 5,
+        "photo": "https://i.ibb.co/txBzhsj/p55.png",
+        "name": "Auto Mart Car Selling Website",
+        "date": "November 2021",
+        "description": {
+            "line1": ">> A responsive, fully functional car selling website.",
+            "line2": ">> Allowing customers to create an account, browse products, buy product and write reviews.",
+            "line3": ">> Admin have ability to add products, update products and shipping status and create new admin",
+            "line4": ">> Reviwes are dynamic."
+        },
+        "methods": {
+            "method1": "#Material UI",
+            "method2": "#JavaScript",
+            "method3": "#React JS",
+            "method4": "#React Router",
+            "method5": "#Firebase",
+            "method6": "#Node JS",
+            "method7": "#MongoDB",
+            "method9": "#Stripe Payment Gateway"
+        },
+        "liveSite": "https://automart-4d061.web.app/",
+        "serverSite": "https://github.com/Nahid51/autoMart-server-side",
+        "clientSide": "https://github.com/Nahid51/autoMart-client-side"
+    },
+    {
+        "id": 4,
+        "photo": "https://i.ibb.co/Y8sk6hN/p44.png",
+        "name": "Travel Door Tour Booking Website",
+        "date": "November 2021",
+        "description": {
+            "line1": ">> Travel agency website with dynamic functions and responsive design.",
+            "line2": ">> Allows users to create an account, book packages, add customer packages and delete them.",
+            "line3": ">> Google firebase authentication has been added.",
+            "line4": ">> Data are loaded by mongodb."
+        },
+        "methods": {
+            "method1": "#Bootstrap",
+            "method2": "#JavaScript",
+            "method3": "#React JS",
+            "method4": "#React Router",
+            "method5": "#Firebase",
+            "method6": "#Node JS",
+            "method7": "#MongoDB"
+        },
+        "liveSite": "https://travel-door-agency.web.app/",
+        "serverSite": "https://github.com/Nahid51/traveldoor-agency-server-site",
+        "clientSide": "https://github.com/Nahid51/traveldoor-agency-client-site"
+    },
+    {
+        "id": 3,
+        "photo": "https://i.ibb.co/jG879nq/p33.png",
+        "name": "Yoga Corner Health Care Website",
+        "date": "October 2021",
+        "description": {
+            "line1": ">> A fully functional and responsive website.",
+            "line2": ">> User can see our services and book them."
+        },
+        "methods": {
+            "method1": "#HTML5",
+            "method2": "#CSS3",
+            "method3": "#Bootstrap",
+            "method4": "#JavaScript",
+            "method5": "#React JS",
+            "method6": "#React Router",
+            "method7": "#Firebase"
+        },
+        "liveSite": "https://yoga-corner.web.app/",
+        "clientSide": "https://github.com/Nahid51/yoga-corner-healthcare"
+    },
+    {
+        "id": 2,
+        "photo": "https://i.ibb.co/BsLzzqD/p22.png",
+        "name": "Langify english speaking course",
+        "date": "October 2021",
+        "description": {
+            "line1": ">> A responsive website and fully functional website.",
+            "line2": ">> User can see our courses and teachers information.",
+            "line3": ">> It has firebase authentication system."
+        },
+        "methods": {
+            "method1": "#HTML5",
+            "method2": "#CSS3",
+            "method3": "#Bootstrap",
+            "method4": "#JavaScript",
+            "method5": "#React JS",
+            "method6": "#React Router"
+        },
+        "liveSite": "https://dreamy-mcclintock-006e0c.netlify.app/",
+        "clientSide": "https://github.com/Nahid51/langify-english-course"
+    },
+    {
+        "id": 1,
+        "photo": "https://i.ibb.co/smqPs8S/p11.png",
+        "name": "Fashion Corner",
+        "date": "September 2021",
+        "description": {
+            "line1": ">> Build a responsive online shopping website.",
+            "line2": ">> There are some product with price and other inforamtion.",
+            "line3": ">> It has a cart system to purchase products."
+        },
+        "methods": {
+            "method1": "#HTML5",
+            "method2": "#CSS3",
+            "method3": "#JavaScript"
+        },
+        "liveSite": "https://clever-bhaskara-add8a9.netlify.app/",
+        "clientSide": "https://github.com/Nahid51/fashion-corner"
+    }
+]
