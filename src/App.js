@@ -3,8 +3,10 @@ import Navigation from "./components/Navigation";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import SingleProject from "./pages/SingleProject";
+import ScrollButton from "./components/ScrollButton";
 
 function App() {
+
   return (
     <div>
       <Navigation />
@@ -14,6 +16,8 @@ function App() {
         <Route path="/singleProject/:id" element={<SingleProject />} />
       </Routes>
       <Footer />
+
+      <ScrollButton />
     </div>
   );
 }
