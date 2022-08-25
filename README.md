@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is made with react js and tailwind CSS. [Create React App](https://github.com/facebook/create-react-app).
+This project is made by Md. Nahid Hasan . [Nahid Portfolio](https://nahid51.netlify.app/).
 
 ## Available Scripts
 
@@ -8,4 +8,4 @@ In the project directory, you can see:
 
 ### `PORTFOLIO`
 
-Nahid Portfolio
+Built with ReactJS and Tailwind CSS.

@@ -51,7 +51,7 @@ const SingleProject = () => {
                             {singleProject?.description?.line12 && <p className='mb-3'>{singleProject?.description?.line12}</p>}
                         </div>
 
-                        <div className='grid grid-cols-3 my-10'>
+                        <div className='grid grid-cols-3 md:my-14 my-20'>
                             <p className='mb-3'>{singleProject?.methods?.method1}</p>
                             <p className='mb-3'>{singleProject?.methods?.method2}</p>
                             <p className='mb-3'>{singleProject?.methods?.method3}</p>
