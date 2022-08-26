@@ -32,7 +32,7 @@ const Contact = () => {
                             <div>
                                 <p className='text-xl'>Have a question?</p>
                                 <p className='my-2'>I am here to help you.</p>
-                                <p className='text-[#ac6a37]'>Email me at hasannahidnahid@gmai.com</p>
+                                <p className='text-[#ac6a37]'>Email me at mdnahidyn@gmail.com</p>
                             </div>
                         </div>
                         <div className='flex gap-5 mt-5'>
