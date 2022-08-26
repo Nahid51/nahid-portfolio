@@ -9,9 +9,9 @@ const Contact = () => {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_1kbj7kp', 'template_7ebkj9l', form.current, 'bnuzjboBxr-nvfU8L')
+        emailjs.sendForm('service_d1rvb2h', 'template_1l8j40d', form.current, '4j40KM-ur9hc0v20S')
             .then((result) => {
-                toast.success(`${result.text}, Message sent!`);
+                toast.success(result.text);
             }, (error) => {
                 toast.error(error.text);
             });
