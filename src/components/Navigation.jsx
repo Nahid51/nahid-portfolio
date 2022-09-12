@@ -7,6 +7,7 @@ let Links = [
     { name: "About", link: "/home#about" },
     { name: "Projects", link: "/home#projects" },
     { name: "Blogs", link: "/home#blogs" },
+    { name: "Services", link: "/home#services" },
     { name: "Contact", link: "/home#contact" },
 ];
 
@@ -26,7 +27,7 @@ const Navigation = () => {
                 <ul className={`md:flex md:items-center text-center absolute md:static md:bg-transparent bg-zinc-800 md:z-auto z-10 w-full md:w-auto transition-all duration-300 ease-in ${open ? 'top-20' : 'top-[-500px]'}`}>
                     {
                         Links.map((link, index) => (
-                            <li key={index} className='md:mr-8 md:my-0 my-5'>
+                            <li key={index} className='xl:mr-8 mr-4 md:my-0 my-5'>
                                 <HashLink
                                     to={link.link}
                                     className='hover:text-[#AC6A37] text-base lg:text-lg duration-500'

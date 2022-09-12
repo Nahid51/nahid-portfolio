@@ -5,6 +5,7 @@ import Contact from '../components/Contact';
 import Projects from '../components/Projects';
 import About from '../components/About';
 import SkillImages from '../components/SkillImages';
+import Services from '../components/Services';
 
 const Home = () => {
     useEffect(() => {
@@ -18,6 +19,7 @@ const Home = () => {
             <SkillImages />
             <Projects />
             <Blogs />
+            <Services />
             <Contact />
         </div>
     );
