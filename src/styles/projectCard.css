@@ -1,0 +1,94 @@
+.hovereffect {
+    width: 100%;
+    height: 100%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    cursor: default;
+}
+
+.hovereffect .overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    background-color: rgba(75, 75, 75, 0.7);
+    transition: all 0.4s cubic-bezier(0.88, -0.99, 0, 1.81);
+}
+
+.hovereffect:hover .overlay {
+    background-color: rgba(48, 152, 157, 0.4);
+}
+
+.hovereffect .projectPhoto {
+    display: block;
+    position: relative;
+}
+
+.hovereffect .ProjectTitle {
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.6);
+    transform: translateY(45px);
+    transition: all 0.4s cubic-bezier(0.88, -0.99, 0, 1.81);
+}
+
+.hovereffect:hover .ProjectTitle {
+    transform: translateY(5px);
+}
+
+.hovereffect .projectDate {
+    color: rgba(75, 75, 75, 0.7);
+}
+
+.hovereffect:hover .projectDate {
+    color: #fff;
+}
+
+
+.hovereffect .ProjectDetail {
+    text-decoration: none;
+    padding: 7px 14px;
+    text-transform: uppercase;
+    color: #fff;
+    border: 1px solid #fff;
+    background-color: transparent;
+    opacity: 0;
+    transform: scale(0);
+    transition: all 0.4s cubic-bezier(0.88, -0.99, 0, 1.81);
+    font-weight: normal;
+    margin: 20px 0 0 0;
+}
+
+.hovereffect:hover .ProjectDetail {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.hovereffect .ProjectDetail:hover {
+    box-shadow: 0 0 5px #fff;
+}
+
+@media only screen and (max-width: 768px) {
+
+    .hovereffect .ProjectDetail {
+        padding: 5px 10px;
+        opacity: unset;
+        transform: none;
+        transition: none;
+    }
+
+    .hovereffect:hover .ProjectDetail {
+        opacity: unset;
+        transform: none;
+    }
+
+}

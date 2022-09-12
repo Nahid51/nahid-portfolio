@@ -1,19 +1,16 @@
 import React from 'react';
+import "../styles/blogCard.css";
 
 const BlogCard = ({ item }) => {
     const { photo, name, date, link } = item;
 
     return (
-        <div className="card bg-base-100 shadow-xl image-full">
-            <figure><img src={photo} alt="Shoes" /></figure>
-            <div className="card-body">
-                <h2 className="card-title">{name}</h2>
-                <p>{date}</p>
-                <div className="card-actions justify-end">
-                    <button className="btn btn-primary rounded-lg uppercase">
-                        <a href={link} target="_blank" rel="noreferrer">Details</a>
-                    </button>
-                </div>
+        <div className="card image-full hovereffect2">
+            <img src={photo} alt="Shoes" />
+            <div className="card-body overlay2">
+                <h2>{name}</h2>
+                <p className='blogDate'>{date}</p>
+                <a href={link} target="_blank" rel="noreferrer">Details</a>
             </div>
         </div>
     );
