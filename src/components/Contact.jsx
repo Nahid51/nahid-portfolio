@@ -22,7 +22,7 @@ const Contact = () => {
         <section id="contact" className="md:container md:mx-auto lg:px-20 mx-5">
             <div className='md:my-32 my-20'>
                 <div className='text-center '>
-                    <p className='font_playfair text-5xl font-bold mb-3'>Contact Me</p>
+                    <p className='font_playfair text-4xl font-bold mb-3'>Contact Me</p>
                     <p className='text-[#ac6a37] text-xl mb-20'>Contact me to get your work done</p>
                 </div>
                 <div className='grid md:grid-cols-3 grid-cols-1 md:gap-20 gap-10'>
